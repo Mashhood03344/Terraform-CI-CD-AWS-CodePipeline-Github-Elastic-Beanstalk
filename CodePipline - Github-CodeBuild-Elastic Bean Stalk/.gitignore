@@ -1,0 +1,31 @@
+# Terraform files
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+
+# Local .terraform directory
+.terraform/
+
+# Terraform plan files
+*.tfplan
+
+# Backup files
+*.backup
+
+# Crash log files
+crash.log
+
+# IDE and editor files
+*.swp
+*.swo
+*.DS_Store
+.idea/
+.vscode/
+
+.terraform.lock.hcl
+.terraform.lock.hcl
+
+.git
+
+aws
